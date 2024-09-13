@@ -1,1 +1,1 @@
-## NU DS Class Projects
+## DS Class Projects
